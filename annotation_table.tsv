@@ -1,0 +1,11 @@
+rank	accession	identity_%	query_cover_%	mismatches	evalue	bitscore	source	interpretation
+1	WP_000065572.1	100.00	100.0	0	0.0	895.0	RefSeq non-redundant protein (WP_): one record shared by many identical bacterial/phage entries	essentially identical full-length match: the same protein (phiX174-type capsid F)
+2	WP_000065548.1	99.77	100.0	1	0.0	894.0	RefSeq non-redundant protein (WP_): one record shared by many identical bacterial/phage entries	essentially identical full-length match: the same protein (phiX174-type capsid F)
+3	ADC55535.1	99.77	100.0	1	0.0	892.0	GenBank/ENA translated CDS (submitted sequence)	essentially identical full-length match: the same protein (phiX174-type capsid F)
+4	AXC43224.1	99.53	100.0	2	0.0	891.0	GenBank/ENA translated CDS (submitted sequence)	essentially identical full-length match: the same protein (phiX174-type capsid F)
+5	ACO94986.1	99.53	100.0	2	0.0	891.0	GenBank/ENA translated CDS (submitted sequence)	essentially identical full-length match: the same protein (phiX174-type capsid F)
+6	QIC52958.1	99.53	100.0	2	0.0	890.0	GenBank/ENA translated CDS (submitted sequence)	essentially identical full-length match: the same protein (phiX174-type capsid F)
+7	1AL0_F	99.77	99.8	1	0.0	890.0	PDB structure (experimentally solved 3D structure)	essentially identical full-length match: the same protein (phiX174-type capsid F)
+8	ACY07120.1	99.53	100.0	2	0.0	890.0	GenBank/ENA translated CDS (submitted sequence)	essentially identical full-length match: the same protein (phiX174-type capsid F)
+9	ADM34310.1	99.53	100.0	2	0.0	890.0	GenBank/ENA translated CDS (submitted sequence)	essentially identical full-length match: the same protein (phiX174-type capsid F)
+10	ADM34695.1	99.30	100.0	3	0.0	889.0	GenBank/ENA translated CDS (submitted sequence)	essentially identical full-length match: the same protein (phiX174-type capsid F)
